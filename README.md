@@ -3,6 +3,12 @@ Instructions for assembly and operation of a 4 Way RF Switch with WiFi control a
 
 For additional information on this project, see   https://team-xcr.com/
 
+Sept 2022
+A new version of the PCB (Ver 010B) is shipping. I has all the non-critical components converted to SMD
+and factory installed. VERY SIMPLE of the remaining components!
+Please refer to the Instructions Ver 010B
+
+
 OTA uploading has 2 parts. The parts MUST be a matched set !
 
     The executable file. When loading this, select the FIRMWARE option.
